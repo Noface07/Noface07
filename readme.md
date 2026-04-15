@@ -1,18 +1,47 @@
-<h1 align="center">Hi 👋, I'm Yuvraj Soni</h1>
-<h3 align="center">A passionate ML/AI enthusiast from India</h3>
+# Yuvraj Soni
+**Software Engineer · Industrial IoT & Systems | Android | Backend**
 
-- 🌱 I’m currently learning **Deep Learning**
+Founding engineer at [Anexee](https://anexee.com) building production-grade Industrial IoT infrastructure from the ground up. Previously at Philips, shipping Android features for medical sleep therapy applications.
 
-- 📫 How to reach me **yuvrajsoni7@gmail.com**
+---
 
-- 📄 Know about my experiences [https://noface07.github.io/Resume-/](https://noface07.github.io/Resume-/)
+## What I work on
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/_yuvrajs_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_yuvrajs_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/asce007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="asce007" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/yuvraj-soni-69350b210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikram-singh-016074209" height="30" width="40" /></a
-</p>
+- **Industrial IoT & SCADA** — Multi-tenant IoT gateways, edge processing servers, multi-protocol communication (OPC UA, IEC 60870-5-104, DNP3, BACnet)
+- **Android** — Kotlin-based applications with on-device ML inference, wearable health data integration
+- **Backend & Systems** — Multithreaded C++ systems, async pipelines, real-time data processing, secure communication
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## Tech Stack
+
+**Languages**
+`C++` `Kotlin` `C#` `Python` `C`
+
+**Frameworks & Libraries**
+`Boost` `open62541` `async_mqtt` `.NET` `TensorFlow` `ONNX` `DotNetty`
+`NumPy` `Pandas` `Scikit-Learn` `Streamlit`
+
+**Databases & Messaging**
+`PostgreSQL` `MongoDB` `MySQL` `MQTT` `Redis` `SQLite`
+
+**Tools & Platforms**
+`Linux` `CMake` `OpenSSL` `Android Studio` `Git` `GitLab CI/CD` `Visual Studio`
+
+**Protocols**
+`OPC UA` `OPC DA` `IEC 60870-5-104` `DNP3` `BACnet`
+
+---
+
+## Experience
+
+**Anexee** — Founding Engineer *(Apr 2025 – Present)*
+Building a high-performance Industrial IoT Gateway & Edge Processing Server. Architected multi-protocol communication, OPC UA Alarm & Conditions system, Store-and-Forward pipelines, and enterprise security from scratch.
+
+**Philips** — Software Engineer *(Aug 2023 – Mar 2025)*
+Enhanced the Philips Respironics DreamMapper Android app and independently built a proof-of-concept sleep apnea detection application using deep learning (90%+ snore detection accuracy, ONNX runtime, Google Health Connect API).
+
+
+## Get in touch
+
+[yuvrajsoni7@gmail.com](mailto:yuvrajsoni7@gmail.com)
