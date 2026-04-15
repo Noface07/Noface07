@@ -13,26 +13,6 @@ Founding engineer at [Anexee](https://anexee.com) building production-grade Indu
 
 ---
 
-## Tech Stack
-
-**Languages**
-`C++` `Kotlin` `C#` `Python` `C`
-
-**Frameworks & Libraries**
-`Boost` `open62541` `async_mqtt` `.NET` `TensorFlow` `ONNX` `DotNetty`
-`NumPy` `Pandas` `Scikit-Learn` `Streamlit`
-
-**Databases & Messaging**
-`PostgreSQL` `MongoDB` `MySQL` `MQTT` `Redis` `SQLite`
-
-**Tools & Platforms**
-`Linux` `CMake` `OpenSSL` `Android Studio` `Git` `GitLab CI/CD` `Visual Studio`
-
-**Protocols**
-`OPC UA` `OPC DA` `IEC 60870-5-104` `DNP3` `BACnet`
-
----
-
 ## Experience
 
 **Anexee** — Founding Engineer *(Apr 2025 – Present)*
